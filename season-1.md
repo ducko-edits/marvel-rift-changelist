@@ -1,0 +1,112 @@
+Season 1
+Current version: v0.1 -- August 26, 2026
+
+# Spider-Man: Far From Home
+- Removed quick cold open scene of Mysterio meeting Fury in Mexico.
+- Moved scene of Spider-Man talking to the crowd at Aunt May's fundraiser to serve as part of a new combined cold open sequence.
+- Added a few shots from deleted scene of Spider-Man taking down the Manfredi mob in a restaurant ("Peter's To-Do List") as part of a new combined cold open sequence.
+  - Video has been AI upscaled to 2160p and tonemapped to HDR, and audio has its soundtrack replaced and mixed for surround sound.
+- Audio of Peter's phone ringing as he is packing for his trip is made louder and repeated to ease transition from other scene.
+- Shot of Peter trying to sleep on the plane is slightly slowed down and music track extended to ease transition to next scene.
+- As Peter walks through the Venice airport, soundtrack is removed so a preceding scene's soundtrack can carry through instead.
+- A few introductory shots of Venice in IMAX are changed back to scope to avoid flipping aspect ratios too often.
+- A gradual transition to IMAX aspect ratio is applied when Peter starts talking to MJ (representing his world opening up when he sees her).
+- The exchange where Peter lists several heroes that Nick Fury could contact instead of him has been shuffled. Fury says that Thor is off-world, but now we just saw him Norway a few minutes ago.
+  - Instead of Thor "off-world," Strange "unavailable," and Captain Marvel "don't invoke her name," the exchange now goes Thor "unavailable" and Captain Marvel "off-world," with Strange's name removed.
+- When Peter boards the upgraded bus in Venice, the beginning of the Austrian song is removed and replaced with the intro to the episode's end credits music.
+- At the end of the bus/drone scene, the beginning of the Czech song is removed and replaced with a short musical cue from Spider-Man: Homecoming.
+- The first shot of the bus arriving in Prague is slowed down to cover up a cross-fade from previous scene while maintaining timing with the Czech song.
+  - This shot is also changed from IMAX to scope to avoid a one-off IMAX shot.
+- As the class returns to the hotel after the Prague elemental fight, added short music cue.
+- As MJ and Peter run on the bridge after discovering the drone projector, reworked music sting to enable a cut to black.
+- IMAX ratios in Mysterio's illusion sequence are carefully reconfigured, so that the aspect ratio opens up gradually, and then abruptly closes when the illusion ends (or when Peter thinks it ends).
+- Shot of Peter waking up in Amsterdam is shortened so that the sound of his snoring prelaps the cut from black.
+- As Peter and Happy fly away from the tulip field in the jet, it now cuts to episode credits with the AC/DC song continuing to play. Additional jet sound effects added to punctuate cut to black.
+- A 17-second sequence of Peter designing his suit's web shooters on board the jet is removed.
+- A 10-second sequence of Maria Hill telling Fury that they've picked up an EMP in London is removed.
+- IMAX transitions during the finale action sequence in London are carefully managed to intercut with other story.
+- When Happy and the kids lock themselves in the vault, a shot of the drone starting to fire its laser at the vault door is moved about 13 seconds later to make the sequence easier to follow.
+  - The music is also slightly altered to accommodate the change.
+- When Peter is on the bridge and realizes he is out of webs, the soundtrack is dialed back with a gradual fade in to match pace from preceding scene.
+- After Mysterio dies, a sequence of MJ running out of the vault is moved to before a sequence of Peter Billingsley's character downloading files from the drones, as the latter is a better transition point.
+- Deleted scene of MJ and Peter snuggling on the plane ride home is reincorporated. Start of Ramones track moved to the end of this scene.
+  - Video is AI upscaled to 2160p and tonemapped to HDR, and audio is reconstructed for surround sound.
+- IMAX transition as Peter starts swinging through Manhattan made gradual.
+- As MJ screams at end of web swinging sequence, audio partially reconstructed to allow for a cut to black/silence.
+- Post-credits scene of Fury/Skrull reveal moved to before the scene of Mysterio revealing Spider-Man's identity.
+  - Replaced soundtrack in the latter half of this scene with one from Infinity War for a better transition.
+- As Peter says "what the f-" and it cuts to credits, music replaced with "No More Heroes" by The Stranglers, which serves as the episode's end credits song.
+
+# The Falcon and the Winter Soldier
+- The order of scenes is changed dramatically, so instead of listing differences from source material, I'll list the scenes in their new order.
+  - In general, all scenes related to finding the source of the serum, Helmut Zemo, and the Power Broker and cut.
+  - The largest story alteration is that Sam now meets Isaiah Bradley at the very beginning, serving as the impetus for him giving up the shield.
+- Opening of Sam dressing in his suit and placing Cap's shield in a case is now serves as part of a new combined cold open sequence.
+- The story now begins with Bucky Barnes being de-programmed in Wakanda (from the original series' episode 4), which transitions into his first therapy session (from episode 1).
+- The last 50 seconds of this therapy scene is removed.
+  - After Bucky's therapist asks him what he really wants, it now cuts directly to a shot of Cap's shield from the scene in episode 5 where Bucky and Sam throw the shield back and forth to each other.
+- This scene of Bucky talking to Sam while throwing the shield is heavily altered to fit a new context, with a lot of spliced dialogue and rearranged shots.
+  - Sam still feels unsure about becoming Cap, and Bucky apologizes for acting bitter and distant. Sam tells Bucky that he needs to stop looking to others to tell him who he is. Bucky then decides that Sam deserves to know about Isaiah Bradley, using spliced audio/ADR from episode 2.
+- Crossfade transition added to Sam and Bucky going to Baltimore to meet Isaiah (from episode 2).
+  - Bucky telling Isaiah that there are more super soldiers is removed, with Isaiah now interrupting him earlier. Additionally, the scene ends before the cops arrive and arrest Bucky.
+- The scene of Sam re-visiting Isaiah (from episode 5) is now moved here. After learning his story, Sam decides to travel to Washington and retire the shield.
+- At this point, Sam and Bucky return to their status quo. Sam saves the hostage from the plane in Tunisia and meets Joaquin Torres (from episode 1).
+  - About a minute is trimmed from this plane sequence because it runs too long IMO.
+- Sam travels back home to Louisiana and tries to help his sister apply for a loan (from episode 1).
+  - A lot of these scenes of Sam talking to his sister about the boat are removed, since they are very repetitive.
+- Bucky has a flashback to killing a man as the Winter Soldier. He tries to make amends with the man's father. He ends up on an awkward date (all from episode 1).
+  - A short bit where Bucky's date says she's reading his mind is cut to tighten up the pacing.
+- Joaquin encounters the Flag Smashers in Switzerland (from episode 1).
+- Joaquin tells Sam about it, and the government proclaims a new Captain America (from episode 1).
+- John Walker is introduced with a TV interview at his old high school (from episode 2).
+  - The first shots of him zipping down the suit cover are removed for pacing.
+  - A chunk of the band music is removed so that the "Falcon and the Winter Soldier" title card can be removed. A few shots of the marching band are reordered as well.
+- Bucky confronts Sam about giving up the shield, and decides to come along with him to Germany to investigate the Flag Smashers (episode 2).
+- They fight the Flag Smashers on a truck and run into John Walker (episode 2).
+- Karli retrieves vials of super soldier serum from a cemetery (episode 4).
+  - This scene is moved earlier so that John Walker can later discover the serum while raiding their safe house, since the regular scene where he finds it is removed.
+- Sam and Bucky hitch a ride with Walker in his Jeep (episode 2).
+  - Their dialogue at about needing to find the source of the serum at the beginning of this scene is removed.
+- Karli and the Flag Smashers check in to their safe house (episode 2).
+  - References to Karli being wanted by the Power Broker are removed.
+- Sam and Bucky meet John Walker outside of a police station, and Walker tells them to stay out of his way (episode 2).
+  - This scene is necessary for Sam and Bucky to learn about Karli Morgenthau.
+  - Several shots are cropped to try and (somewhat) disguise the fact that this scene takes place in Baltimore instead of Munich.
+- Walker raids the safehouse Karli recently stayed in (episode 3). Having run away in time, Karli asks her accomplice, "Did you find the vials?" (episode 4). Walker discovers a vial of serum on the floor and pockets it (episode 4).
+- Walker talks to Lamar in a cafe about their time in Afghanistan and how they wish they'd had the serum then (episode 4).
+- Karli and the Flag Smashers raid a GRC depot and detonate a bomb inside it (episode 3).
+- Karli calls Sam's sister and threatens her (episode 4).
+  - This conversation is altered to remove references to an earlier scene that is now cut.
+- Sam meets with Karli, only to be interrupted by Walker (episode 4).
+  - Sharon Carter is removed. Sam now simply learns about Walker by looking at the screen on his wrist.
+  - Sequences of them traveling to another location are cut. It is now implied that Walker is raiding the location they are meeting Karli, and that the whole scene takes place there.
+  - A shot of Karli looking at Walker in horror after he kills the guy is removed, as the edit removes pretty much any attempt to make Karli an empathetic character (which fell flat in the original IMO).
+- Sam and Bucky confront Walker, and confiscate the shield (episode 5).
+- Sam talks to Bucky and Joaquin about Karli not being found (episode 5).
+  - Opening shots of Flag Smashers being arrested are reordered.
+  - Removed Sam's ADR line "You off to take care of Zemo?" and adjusted Joaquin's dialogue to compensate. Ironically, Joaquin's dialogue now matches his on-screen mouth, whereas it didn't before.
+- Walker is censured by the government and is approached by Valentina (episode 5).
+- Sam returns home to Louisiana, and Bucky shows up to deliver a new Wakandan suit and helps patch up the fishing boat (episode 5).
+  - A sequence of the community banding together to provide supplies is cut for pacing.
+  - Altered a line where Bucky refers to Zemo.
+- Sam opens the case with his new suit (episode 5).
+- Sam talks to his sister about having to "preserve this" (meaning the boat, and Cap's legacy) (episode 5).
+  - Conversation of his sister telling Sam that she plans to sell the boat is cut.
+- Sam trains with the shield (episode 5).
+- Flag Smashers hiding out while a news report talks about how their danger/power is rising (episode 4).
+- Walker talks to Lamar's parents, which now transitions directly to the post-credits scene of Walker forging his own shield (episode 5).
+- Flag Smashers meet with Batroc in Central Park, Joaquin tells Sam he found them in New York (episode 5).
+- The GRC council is interrupted by Flag Smashers (episode 5). Opening New York City establishing shot removed.
+- Episode 6 plays out in order, though still with heavy alterations.
+- When Sharon Carter finally makes her first appearance, meeting Bucky outside the GRC building, references to her being a fugitive and their recent adventures are cut. Her appearance is simply explained by Sam saying that he "called some backup." A shot of Sharon is slowed down for this altered conversation.
+- A shot of a van driver's face melting off is cut to make Sharon Carter seem like less of a psychopath.
+- Sequence of helicopter with GRC hostages taking off is moved to after Karli talks with her followers for pacing reasons to keep the helicopter sequences in one continuous block.
+- A shot of Sam flying to helicopter is zoomed in to simulate an IMAX transition (following a matching shot of Spider-Man falling from a jet).
+- When Sam finally catches up with Karli and follows her into the tunnel, any shots of Batroc are removed because he doesn't show up again.
+- Karli talking to Sharon about Power Broker stuff is cut. Karli now just shoots Sharon without saying anything. Again, Batroc is completely removed from this scene, too.
+- 15 seconds trimmed from Karli's death scene because it drags on way, way too long.
+- Sam's speech to the senator is slightly to help it land better.
+  - Sam no longer laments that Karli died, and his line, "You gotta do better, Senator!" is moved back a bit to when Sam is a bit more heated/angry.
+- Cut Sharon apologizing to Sam and him reminding her about his promise to get her a pardon.
+- Cut Valentina saying that Zemo must be happy with how things turned out.
+- Cut post-credits scene that shows that Sharon STILL CHOOSES TO BE A CRIMINAL ARMS DEALER EVEN AFTER GETTING A PARDON. JUST. WHY. This will NEVER get followed up on.
