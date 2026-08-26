@@ -1,21 +1,23 @@
-Season 1
-Current version: v0.1 -- August 26, 2026
+# Marvel Rift Season 1 Changelist
+**Current version: v0.1**
 
-# Spider-Man: Far From Home
+**Last updated: August 26, 2026**
+
+## Spider-Man: Far From Home
 - Removed quick cold open scene of Mysterio meeting Fury in Mexico.
 - Moved scene of Spider-Man talking to the crowd at Aunt May's fundraiser to serve as part of a new combined cold open sequence.
 - Added a few shots from deleted scene of Spider-Man taking down the Manfredi mob in a restaurant ("Peter's To-Do List") as part of a new combined cold open sequence.
   - Video has been AI upscaled to 2160p and tonemapped to HDR, and audio has its soundtrack replaced and mixed for surround sound.
-- Audio of Peter's phone ringing as he is packing for his trip is made louder and repeated to ease transition from other scene.
-- Shot of Peter trying to sleep on the plane is slightly slowed down and music track extended to ease transition to next scene.
-- As Peter walks through the Venice airport, soundtrack is removed so a preceding scene's soundtrack can carry through instead.
+- Audio of Peter's phone ringing as he is packing for his trip is made louder and repeated to ease transition from other segment.
+- Shot of Peter trying to sleep on the plane is slightly slowed down and music track extended to ease transition to next segment.
+- As Peter walks through the Venice airport, soundtrack is removed so a preceding segment's soundtrack can carry through instead.
 - A few introductory shots of Venice in IMAX are changed back to scope to avoid flipping aspect ratios too often.
 - A gradual transition to IMAX aspect ratio is applied when Peter starts talking to MJ (representing his world opening up when he sees her).
 - The exchange where Peter lists several heroes that Nick Fury could contact instead of him has been shuffled. Fury says that Thor is off-world, but now we just saw him Norway a few minutes ago.
   - Instead of Thor "off-world," Strange "unavailable," and Captain Marvel "don't invoke her name," the exchange now goes Thor "unavailable" and Captain Marvel "off-world," with Strange's name removed.
 - When Peter boards the upgraded bus in Venice, the beginning of the Austrian song is removed and replaced with the intro to the episode's end credits music.
 - At the end of the bus/drone scene, the beginning of the Czech song is removed and replaced with a short musical cue from Spider-Man: Homecoming.
-- The first shot of the bus arriving in Prague is slowed down to cover up a cross-fade from previous scene while maintaining timing with the Czech song.
+- The first shot of the bus arriving in Prague is slowed down to cover up a cross-fade from previous segment while maintaining timing with the Czech song.
   - This shot is also changed from IMAX to scope to avoid a one-off IMAX shot.
 - As the class returns to the hotel after the Prague elemental fight, added short music cue.
 - As MJ and Peter run on the bridge after discovering the drone projector, reworked music sting to enable a cut to black.
@@ -27,7 +29,7 @@ Current version: v0.1 -- August 26, 2026
 - IMAX transitions during the finale action sequence in London are carefully managed to intercut with other story.
 - When Happy and the kids lock themselves in the vault, a shot of the drone starting to fire its laser at the vault door is moved about 13 seconds later to make the sequence easier to follow.
   - The music is also slightly altered to accommodate the change.
-- When Peter is on the bridge and realizes he is out of webs, the soundtrack is dialed back with a gradual fade in to match pace from preceding scene.
+- When Peter is on the bridge and realizes he is out of webs, the soundtrack is dialed back with a gradual fade in to match pace from preceding segment.
 - After Mysterio dies, a sequence of MJ running out of the vault is moved to before a sequence of Peter Billingsley's character downloading files from the drones, as the latter is a better transition point.
 - Deleted scene of MJ and Peter snuggling on the plane ride home is reincorporated. Start of Ramones track moved to the end of this scene.
   - Video is AI upscaled to 2160p and tonemapped to HDR, and audio is reconstructed for surround sound.
@@ -37,9 +39,9 @@ Current version: v0.1 -- August 26, 2026
   - Replaced soundtrack in the latter half of this scene with one from Infinity War for a better transition.
 - As Peter says "what the f-" and it cuts to credits, music replaced with "No More Heroes" by The Stranglers, which serves as the episode's end credits song.
 
-# The Falcon and the Winter Soldier
-- The order of scenes is changed dramatically, so instead of listing differences from source material, I'll list the scenes in their new order.
-  - In general, all scenes related to finding the source of the serum, Helmut Zemo, and the Power Broker and cut.
+## The Falcon and the Winter Soldier
+- The order of scenes is changed dramatically with a lot of them removed, so instead of listing differences from source material, I'll list the included scenes in their new order.
+  - In general, all scenes related to finding the source of the serum, Helmut Zemo, and the Power Broker are cut.
   - The largest story alteration is that Sam now meets Isaiah Bradley at the very beginning, serving as the impetus for him giving up the shield.
 - Opening of Sam dressing in his suit and placing Cap's shield in a case is now serves as part of a new combined cold open sequence.
 - The story now begins with Bucky Barnes being de-programmed in Wakanda (from the original series' episode 4), which transitions into his first therapy session (from episode 1).
@@ -109,4 +111,107 @@ Current version: v0.1 -- August 26, 2026
   - Sam no longer laments that Karli died, and his line, "You gotta do better, Senator!" is moved back a bit to when Sam is a bit more heated/angry.
 - Cut Sharon apologizing to Sam and him reminding her about his promise to get her a pardon.
 - Cut Valentina saying that Zemo must be happy with how things turned out.
-- Cut post-credits scene that shows that Sharon STILL CHOOSES TO BE A CRIMINAL ARMS DEALER EVEN AFTER GETTING A PARDON. JUST. WHY. This will NEVER get followed up on.
+- Cut post-credits scene that shows that Sharon STILL CHOOSES TO BE A CRIMINAL ARMS DEALER EVEN AFTER GETTING A PARDON. JUST. WHY. Absolute character assassination.
+
+## Thor Love and Thunder
+- Gorr's backstory moved to after he attacks New Asgard to serve as a cold open sequence for a later episode.
+- Korg's opening recap monologue removed, with some shots of Thor getting fit and teaming up with the Guardians incorporated into new combined cold open sequence.
+- Deleted scene of Star Lord and Mantis asking Thor to join the battle reincorporated.
+  - Video is AI upscaled to 2160p and tonemapped to HDR, and audio is reconstructed for surround sound.
+  - Mantis and Thor annoying humming bit is removed.
+  - Thor riding on Stormbreaker like a witch's broom is removed, with the scene now ending as soon as Star Lord starts to leave.
+- Gradual IMAX transition as Rocket uses his binoculars.
+- Close up of King Yakan removed before Thor throws his poncho on him, making the joke more subtle.
+- Cut sequence of Thor doing the splits across two vehicles.
+- Cut sequence of Thor slow-mo roundhouse kicking a tank.
+- Section of "Welcome to the Jungle" stitched out to accommodate previous cut sequences.
+  - Reaction shot of King Yakan slightly slowed down to fit new music timing.
+- Gradual IMAX transition as Thor destroys the temple.
+- The scene introducing Jane's cancer is moved to after Thor meets her.
+- After Thor says "classic Thor adventure" after destroying the temple, it now cross fades to New Asgard.
+  - Shot of New Asgard road sign significantly slowed down with additional zoom to allow for cross fade.
+- Cut Valkyrie's Old Spice commercial sequence for being cringe.
+- Section of "Paradise City" stitched out to accommodate removed Old Spice sequence.
+  - A shot of tourist kids in New Asgard is also cut to to fit new music timing.
+- The scene of Jane acquiring Mjolnir is altered to avoid actually showing Jane.
+  - Another cut of this scene plays again later to reveal Jane as the mysterious hammer-getter.
+  - Credit to Bailey-Edits as I stole this idea from his Love and Thunder cut!
+- Scene of King Yakan thanking Thor is prelapped over a previous scene.
+- Cut Thor and Korg talking about how the screaming goats are loud. Now cuts from "no backsies" to inside the Guardians ship.
+- Cut Kraglin introducing his bride.
+- Cut Thor giving Star Lord an absurdly long handshake, because it steps on the funnier joke of Thor gifting Star Lord his own ship.
+- Cut Sif telling Thor to just let her die and Thor telling her that maybe her arm is in Valhalla to make the moment more serious.
+- Thor and Jane's relationship flashback after he encounters her in New Asgard is moved to after they leave for Omnipotence City, serving as a later episode cold open.
+- Cut one shot of Jane in scanning machine as the panning movement no longer works in new context.
+- Cut Jane's awkward explanation of wormholes to other cancer patient because it feels purposeless.
+- After Jane realizes that Mjolnir has healing properties, it cuts directly to her retrieving the hammer, revealing Jane as the previously seen mysterious figure.
+  - "Paradise City" was already used in first iteration of this scene, so music is replaced with a song from the OST.
+- Cut sequence of Miek writing/squeaking on the whiteboard and Thor getting mad at him.
+- Transition point created after Thor says "They're in the Shadow Realm" by extending that shot of Thor with a bit of clever editing.
+  - Also cut a bit of dialogue of Valkyrie asking him how he knows.
+- Cut Jane "Taste the rainbow!" sequence for being cringe.
+- Moved Gorr talking to the kids in the cage earlier so that it occurs in the same episode as his backstory.
+  - Gorr's "That's why you're here" is now cut, and Thor saying "it could be a trap" is prelapped instead.
+- Removed one of the goat screams as they are preparing the tour boat.
+- Cut sequence of Valkyrie showing Jane various weapons and a Bluetooth speaker.
+  - Scene now cuts directly from Valkyrie telling Jane she needs her to Jane telling her not to tell Thor about the sink she broke.
+  - A few shots are zoomed in to hide Valkyrie bending over to put away the speaker.
+- Removed another goat scream from boat leaving New Asgard, and lowered the volume of another.
+- Thor and Jane's relationship flashback now opens with a shot of Thor looking at the note as Korg voiceover begins.
+  - Korg's "or so they thought" at the end is now postlapped with next scene arriving in Omnipotence City.
+- Moved an establishing shot of Omnipotence City a bit earlier and added a location title card, along with a bit of music from the OST.
+  - Thor's dialogue from the scene where they put on disguises is now prelapped over previous scene to accommodate moved establishing shot.
+- Gradual IMAX transition as they enter the hall of gods.
+- Cut god of dumplings for being a bit too goofy.
+  - Also removed shot of him as they chant "Zeus!"
+- Cut Thor being confused where the stage is, because it makes Thor look _unbelievably_ stupid.
+- "Sweet Child of Mine" extended to accommodate a cut to black and transition to other story.
+- Cut about 10 seconds of Thor itching his nose while talking to Axl to tighten up the joke.
+- Cut sequence of Thor talking to Stormbreaker on the boat and pouring beer all over it, because it makes Thor look _unbelievably_ stupid.
+- Cut Korg singing karaoke and talking with Valkyrie.
+- Moved post-credits scene to be after the credits of the episode where Zeus is killed. I don't think this scene will be followed up on at all, but doesn't hurt to throw it in.
+- Muted Korg's line "where did all the color go?"
+- Removed one of the two goat screams as they arrive in the Shadow Realm.
+- As Gorr collects Stormbreaker, music replaced with that of next segment from other story.
+- As Thor uses Thunderbolt to travel back to Gorr, music is pitched up one semitone so it flows seamlessly into the soundtrack of the next segment.
+- On next shot of Gorr with kids, music adjusted to fade in much more slowly.
+- Cut sequence of Thor planning to sneak past the shadow monsters and saying "They're right behind me, aren't they?" for being such a tired trope.
+- Thor giving his powers to the children is left intact after trying versions without it. I don't love it but it at least sets up his fatherhood role.
+- Epilogue with Korg voiceover now has "Hotel California" playing lightly throughout, continuing from the previous Shang-Chi sequence.
+- Removed bit of Korg voiceover referring to Jane as a space viking, as it felt excessive.
+- Cut Korg growing his body back and beginning a relationship with "Dwayne," mainly due to issues isolating the voiceover/dialogue to replace the music (but also it's not very funny).
+- Post-credits scene of Jane arriving in Valhalla is included but couldn't be inserted anywhere before the credits roll.
+
+## Shang-Chi and the Legend of the Ten Rings
+- Opening exposition dump about the Mandarin's backstory is moved to a later episode, keeping Shang-Chi's background a mystery throughout the first act.
+- 13 seconds of Shang-Chi waking up and looking at his phone removed due to irremovable "PRESENT DAY" text.
+- Location title card added to establishing shots of San Francisco
+- Deleted scene of Katy talking to Shang-Chi about his childhood incorporated to establish his (false) background of being an orphan.
+  - Video is AI upscaled to 2160p and tonemapped to HDR, and audio reconstructed in surround sound.
+- Gradual IMAX transition as Shang-Chi starts fighting on the bus.
+- Location title card added and gradual IMAX transition as they arrive in Macau.
+- Gradual IMAX transition as Shang-Chi is attacked by the Ten Rings after his fight with his sister.
+- Gradual IMAX transition during Mandarin's opening backstory (because the first shots of him in the field look awkward in IMAX).
+- Shang-Chi looking at the beaten wooden post in his dad's compound and thinking back to his childhood is moved to before Katy talking to Xialing.
+  - This scene now immediately follows the opening scene of his mother telling him about how she met his father, drawing a contrast between the two.
+- Gradual transition from IMAX back to scope as Shang-Chi rejects his father's plan.
+- Gradual IMAX transition as they enter Razorfist's car.
+- Scene of the Mandarin watching them escape on CCTV has gradual IMAX close applied and music prelapped from next segment.
+- Gradual IMAX transition as they drive through the forest to Ta Lo.
+- As Shang-Chi informs his aunt that his father is coming to her village, music replaced/prelapped from next segment.
+- As Shang-Chi's aunt introduces them to the village, music postlapped from previous segment.
+- The Mandarin preparing for war and hearing his wife's voice moved to be part of a later episode.
+  - The music at the end has also been swapped out for a punchier transition.
+- After Shang-Chi has a practice fight with his aunt, music from OST added to ease transition to next segment.
+  - Also, IMAX not included for this scene because it looked terrible.
+- Gradual IMAX transition as Shang-Chi starts fighting his father in the shrine.
+- Gradual IMAX transition as Xialing fights Razorfist.
+- Gradual IMAX transition as Shang-Chi and Xialing alight from the dragon.
+- Beginning of eulogy scene slightly altered for a smoother transition.
+  - First word "tonight" removed.
+  - Music extended to start earlier.
+- Scenf of Wong opening a portal to talk to Shang-Chi and Katy is altered to flow directly into the mid-credits scene examining the rings.
+  - Audio reconstructed to remove start of credits song.
+  - 18 seconds removed of Shang-Chi and Katy staring back at the cafe patrons before they enter the portal.
+- Ending "Hotel California" now extends to play over the following segment.
+- Post-credits scene of Xialing taking over the Ten Rings is not included as there's already a more interesting scene in its place (Jane arriving in Valhalla). I doubt this scene will be followed up on anyway.
